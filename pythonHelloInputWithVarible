@@ -17,7 +17,7 @@
  <pyscript>
   var input_box = Element("operandOne")
   var operandOne = parseFloat(input_box.value
-  var result = Element("total")
+  var result + Element("total")
  result.write("Hello! The input says: " + operandOne) ;
       </py-script>
     </body>
